@@ -1,0 +1,2 @@
+# Jenkins Rest API
+Notes about jenkins Rest API. These notes will probably be pretty light, as it is just what has been used in the Jenkins for Beginners course on KodeKloud, but hopefully is a good starting point moving forward.
